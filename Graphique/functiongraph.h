@@ -8,7 +8,8 @@ void Menu(){
     printf("1) entrer la fonction \n");
     printf("2) changer les bornes \n");
     printf("3) afficher le graphique \n");
-    printf("4) quitter la calculatrice \n");
+    printf("4) trouver un point en particulier\n");
+    printf("5) quitter la calculatrice \n");
     printf("que souhaitez-vous faire ? Entrez le numero : \n");
 }
 

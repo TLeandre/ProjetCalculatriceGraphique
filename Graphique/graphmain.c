@@ -21,8 +21,10 @@ void main(){
         }else if(input == 3){
             // fonction qui affiche le graphique de la fonction avec les bornes 
         }else if(input == 4){
+            // fonction qui recherche un point en particuler sur la courbe?
+        }else if(input == 5){
             quit = 1;
-        }else {
+        }else{
             printf("Ce que vous avez saisi n'est pas valide, veuillez reessayer.\n");
         }
     }
