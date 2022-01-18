@@ -4,6 +4,7 @@
 
 int quit = 0;
 int input = 0;
+float bornes[2] = {-10.0, 10.0};
 
 void main(){
 

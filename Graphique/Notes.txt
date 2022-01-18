@@ -1,1 +1,6 @@
 changer le scale du windows -> begin2DDisplay
+
+pour la fonction trouver un point :
+tracer une ligne verticale au niveau de l'abscisse voulu et affiche en texte
+image / antecedents
+
