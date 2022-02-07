@@ -1,6 +1,5 @@
 # ProjetCalculatriceGraphique
-Projet d'école L2 
+Projet d'école L2 IMT Nord Europe 
 
-From IMT import Nom d'équipes : <Les_Jetons.s>
+Projet réalisé avec 7 autres personnes 
 
-https://replit.com/join/fjdcauatyh-mathishadinger
