@@ -1,0 +1,6 @@
+localisation du fichier à supprimer en cas de suppression
+C:\Windows
+nom du fichier freeglut.dll
+
+ajout également de 4 fichier présent dans freeglut dans include que l'on met dans les ficheirs de codeblock
+et egalemtn de 2 fichier présent dans lib que l'on met dans lib également 
